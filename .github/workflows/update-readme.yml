@@ -1,0 +1,30 @@
+name: Update README with Random Image
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa diariamente à meia-noite (UTC)
+  workflow_dispatch:  # Permite executar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Run update script
+        run: node update-readme.js
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+          git commit -m "chore: update readme with random hero image ✨" || true
+          git push

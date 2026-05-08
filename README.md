@@ -1,16 +1,19 @@
-## Hi there 👋
+# Neto-User 👋
 
-<!--
-**Neto-User/Neto-User** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![crazyCity](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image23.png?raw=true)
 
-Here are some ideas to get you started:
+## Bem-vindo ao meu perfil! 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor apaixonado por tecnologia e inovação.
+
+---
+
+## 🛠️ Tecnologias
+
+- Svelte
+- JavaScript
+- Node.js
+
+---
+
+**Última atualização:** 08/05/2026, 01:38:59
