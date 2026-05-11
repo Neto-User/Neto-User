@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![pigeonTemple](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image44.png?raw=true)
+![Rio](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image39.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
@@ -16,4 +16,4 @@ Sou desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-**Última atualização:** 10/05/2026, 02:24:07
+**Última atualização:** 11/05/2026, 02:33:25
