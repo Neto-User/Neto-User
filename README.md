@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![Rio](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image39.png?raw=true)
+![crazyCity](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image23.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
@@ -16,4 +16,4 @@ Sou desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-**Última atualização:** 11/05/2026, 02:33:25
+**Última atualização:** 12/05/2026, 02:27:02
