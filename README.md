@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![Greencity](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image53.png?raw=true)
+![Rio](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image39.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
@@ -16,4 +16,4 @@ Sou desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-**Última atualização:** 23/05/2026, 02:28:39
+**Última atualização:** 24/05/2026, 02:38:43
