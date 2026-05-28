@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![crazyCity](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image23.png?raw=true)
+![grass](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image20.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
@@ -16,4 +16,4 @@ Sou desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-**Última atualização:** 27/05/2026, 02:46:32
+**Última atualização:** 28/05/2026, 02:33:26
