@@ -34,7 +34,7 @@ Sou desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-**Última atualização:** ${new Date().toLocaleString('pt-BR')}
+
 `;
 
 // Salva o novo README
