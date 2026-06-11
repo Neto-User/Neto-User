@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![grass](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image20.png?raw=true)
+![Greenbeach](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image51.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
