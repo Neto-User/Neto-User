@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![pigeonTemple](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image44.png?raw=true)
+![GreenLake](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image46.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
