@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![Rio](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image39.png?raw=true)
+![GreenLake](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image46.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
