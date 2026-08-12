@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![Chinesetemple](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image5.png?raw=true)
+![grass](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image20.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
