@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![moonLake](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image29.png?raw=true)
+![crazyCity](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image23.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
