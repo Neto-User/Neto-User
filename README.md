@@ -1,6 +1,6 @@
 # Neto-User 👋
 
-![GreenWaterfall](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image45.png?raw=true)
+![wallpaperLibrary](https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image34.png?raw=true)
 
 ## Bem-vindo ao meu perfil! 🎨
 
