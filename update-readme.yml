@@ -1,0 +1,42 @@
+name: Hero rotativo do README
+
+on:
+  schedule:
+    # todo dia às 00:00 UTC (21:00 em Brasília no horário padrão)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Setup do Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sortear nova imagem do hero
+        run: node update-readme.js
+
+      - name: Commitar e enviar se mudou algo
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Nenhuma mudança no README.md — nada a commitar."
+            exit 0
+          fi
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore: troca a imagem do hero do README ✨"
+          git push
