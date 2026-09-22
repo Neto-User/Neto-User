@@ -179,7 +179,9 @@ I care about readable code, well-modeled databases and everything running in con
 | **[Nokoru.one](https://github.com/Neto-User/Nokoru.one)** | `TypeScript` | Connects your GitHub and generates a public *shame score* — ship your side projects or be shamed. |
 | **[barcode-generator](https://github.com/Neto-User/barcode-generator)** | `TypeScript` | Generates and exports customizable barcode labels in A4 layout, with automatic layout calculation and PDF export. |
 | **[WebSite-Warley](https://github.com/Neto-User/WebSite-Warley)** | `Svelte` | Institutional website delivered to a real client, focused on performance and responsiveness. |
+| **[loja-arco-iris](https://github.com/Neto-User/loja-arco-iris)** | `Svelte` | Online storefront built with Svelte. |
 | **[Rest_APItutorial](https://github.com/Neto-User/Rest_APItutorial)** | `HTML` · `Pages` | A navigable guide on REST APIs, [published on GitHub Pages](https://neto-user.github.io/Rest_APItutorial/index.html). |
+| **[MySQL_study](https://github.com/Neto-User/MySQL_study)** | `SQL` | MySQL from scratch, with practical examples organized by topic. |
 
 ### `❯ contact --help`
 
