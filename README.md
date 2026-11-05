@@ -1,6 +1,6 @@
 <!-- HERO:START -->
 <div align="center">
-  <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image5.png?raw=true" alt="Chinesetemple" width="100%" />
+  <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Pixelart/image35.png?raw=true" alt="wallpaperGame" width="100%" />
 </div>
 <!-- HERO:END -->
 
